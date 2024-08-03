@@ -1,3 +1,1 @@
-streamlit==1.10.0
-matplotlib==3.5.2
-numpy==1.21.5
+pip install streamlit tensorflow pillow matplotlib seaborn numpy
