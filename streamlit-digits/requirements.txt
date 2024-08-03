@@ -1,1 +1,5 @@
-pip install streamlit tensorflow pillow matplotlib seaborn numpy
+streamlit
+numpy
+matplotlib
+seaborn
+tensorflow
