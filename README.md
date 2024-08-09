@@ -1,4 +1,4 @@
-                                    Digit Classification Application
+Digit Classification Application
 ## Overview
 This application classifies handwritten digits (0-9) from uploaded images using a trained machine learning model. It utilizes a Convolutional Neural Network (CNN) trained on the MNIST dataset. The application is built with Streamlit for the web interface and TensorFlow/Keras for the machine learning model. Visualization of prediction probabilities is provided using Matplotlib and Seaborn.
 
