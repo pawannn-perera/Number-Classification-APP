@@ -1,5 +1,4 @@
-
-# Number Classification APP
+# Number Classification Application
 
 ## Features
 - **Upload Image**: Upload an image of a digit (0-9) in JPEG or PNG format.
