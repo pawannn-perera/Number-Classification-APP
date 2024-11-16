@@ -1,9 +1,6 @@
 
 # Number Classification APP
 
-## Overview
-This application is designed to classify handwritten digits (0-9) from uploaded images using a pre-trained Convolutional Neural Network (CNN). Built with a user-friendly interface using Streamlit, this tool leverages TensorFlow/Keras for machine learning and provides insightful visualizations using Matplotlib and Seaborn. 
-
 ## Features
 - **Upload Image**: Upload an image of a digit (0-9) in JPEG or PNG format.
 - **Predict**: Instantly classify the uploaded image and view the predicted digit along with a bar plot showing prediction probabilities.
